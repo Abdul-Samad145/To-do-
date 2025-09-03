@@ -1,5 +1,15 @@
 # To-do-
-In this task, I created a simple To-Do List application to manage daily tasks efficiently. The main purpose of this task was to understand how to add, display, and remove items dynamically using basic programming concepts. Users can input tasks, and the system will display them in a list format. Each task has a delete and edit option.
+
+
+In this project  i created a simple To-Do List application that helps manage daily tasks in an easy and organized way. The main purpose of this task was to understand how to work with dynamic functionality such as adding, displaying, and removing items using basic programming concepts.
+
+Users can type a task into the input field, and once submitted, it will immediately appear in the list below. This makes the process of adding and keeping track of tasks straightforward and user-friendly. Each task in the list is displayed with two additional options:
+
+Delete option :  to remove a task once it has been completed or is no longer needed.
+
+Edit option : to update or change the content of a task without having to delete and re-add it.
+
+This project gave me a clear understanding of how simple logic can be applied to create an interactive application, where the content on the screen changes dynamically based on user actions.
 
 
 
